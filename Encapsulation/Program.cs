@@ -7,7 +7,7 @@ namespace Encapsulation
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args)  
         {
             Car car=new Car();
             car.Speed = 120;
