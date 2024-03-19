@@ -11,7 +11,7 @@ namespace Encapsulation
         {
             Car car=new Car();
             car.Speed = 120;
-            car.DisplaySpeed();
+            car.DisplaySpeed(); 
 
             car.SpeedUp(45); //propert olarak çağırdım, fonks gibi parantez içinde çağırdım.
             car.DisplaySpeed();
